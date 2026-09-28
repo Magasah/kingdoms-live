@@ -1,0 +1,1 @@
+Interactive LIVE battle game where viewers support RED or BLUE and summon units during real-time battles.

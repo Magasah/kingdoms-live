@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 @media(max-width:760px){.top .nav{padding-left:20px;padding-right:20px}}
+
+.legal{overflow-wrap:anywhere}.foot nav{flex-wrap:wrap}.legal p{line-height:1.75}

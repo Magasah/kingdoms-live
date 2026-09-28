@@ -1,0 +1,16 @@
+# Developer Portal checklist
+- App name: KINGDOMS LIVE; category: Games; platform: Desktop.
+- Description: Interactive LIVE battle game where viewers support RED or BLUE and summon units during real-time battles. (105 characters).
+- Icon: Media/Brand/logo_app_1024.png, 1024×1024 PNG, under 5 MB.
+- Website: https://magasah.github.io/kingdoms-live/
+- Privacy: https://magasah.github.io/kingdoms-live/privacy.html
+- Terms: https://magasah.github.io/kingdoms-live/terms.html
+- Contact: https://magasah.github.io/kingdoms-live/contact.html
+- Public email: kingdomslive.game@gmail.com; country: Tajikistan.
+- Effective date: September 28, 2026.
+- Legal operator: [OPERATOR LEGAL NAME REQUIRED].
+- Products/scopes: none unless officially required by authorized LIVE integration.
+- Copy-ready values: TIKTOK_PORTAL_FINAL_VALUES.md.
+- URL verification: waiting for the real signature file.
+- LIVE application: answers prepared; identity and requested demo must be supplied before submission.
+- No TikTok form, API product request or app review was submitted by this task.
