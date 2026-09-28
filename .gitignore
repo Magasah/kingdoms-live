@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.secret.json
+credentials.json
+*.key
+*.pem
+*.pfx
+*.token
+Logs/
